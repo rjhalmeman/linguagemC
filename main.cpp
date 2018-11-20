@@ -23,7 +23,7 @@ int arquivo(void) {
     //mensagem para o usuário
     printf("O arquivo foi criado com sucesso!");
 
-    system("pause");
+   
     return (0);
 }
 
