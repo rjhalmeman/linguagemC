@@ -55,9 +55,7 @@ int adicionarDados(void) {
     return (0);
 }
 
-//Leitura de arquivo
-#include <stdio.h>
-#include <stdlib.h>
+
 
 int lerDadosSalvos(void) {
     FILE *pont_arq;
